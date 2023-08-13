@@ -1,0 +1,58 @@
+{
+    "status": 200,
+    "line1": [
+        "green",
+        "greenbranch",
+        "blue"
+    ],
+    "line2": [
+        "greenbranch",
+        "blue",
+        "yellow"
+    ],
+    "interchange": [
+        "ashok park main",
+        "kirti nagar",
+        "rajiv chowk"
+    ],
+    "lineEnds": [
+        "inderlok",
+        "kirti nagar",
+        "noida electronic city",
+        "huda city centre"
+    ],
+    "path": [
+        "mundka",
+        "rajdhani park",
+        "nangloi railway station",
+        "nangloi",
+        "surajmal stadium",
+        "udyog nagar",
+        "peera garhi",
+        "paschim vihar west",
+        "paschim vihar east",
+        "madipur",
+        "shivaji park",
+        "punjabi bagh",
+        "ashok park main",
+        "satguru ram singh marg",
+        "kirti nagar",
+        "shadipur",
+        "patel nagar",
+        "rajendra place",
+        "karol bagh",
+        "jhandewalan",
+        "ramakrishna ashram marg",
+        "rajiv chowk",
+        "patel chowk",
+        "central secretariat",
+        "udyog bhawan",
+        "lok kalyan marg",
+        "jor bagh",
+        "ina",
+        "aiims",
+        "green park",
+        "hauz khas"
+    ],
+    "time": 93.66000000000001
+}
